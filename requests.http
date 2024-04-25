@@ -4,6 +4,6 @@ POST http://localhost:5000/api/profiles
 ###
 GET https://iiotwebapp.azurewebsites.net/api/profiles
 ###
-POST http://iiotwebapp.azurewebsites.net/api/telemetry
+POST https://iiotwebapp.azurewebsites.net/api/telemetry
 
 
